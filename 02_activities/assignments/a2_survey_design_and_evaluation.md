@@ -40,27 +40,30 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: 3
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+compare the music taste in correlation to the age, it will be evaluated both among different people of different ages and comparisons of the same individual at different ages during their lifetime, specifically as it relates to perceptions of popular music; and the expectation is to publish the result.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+target population: All UofT students/staff aged 15+ in 2026.
+sampling frame: UofT student/staff email lists
+sampling unit: individuals
+observation unit: individuals (their responses about music taste + age + past taste).
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
+1. write your question here... Age group (15–17 / 18–24 / 25–34 / 35–44 / 45–54 / 55–64 / 65+)
+2. write your question here... How often do you listen to music? (Daily / A few times a week / Weekly / Rarely)
+3. write your question here... Top 3 genres you listen to most (multi-select list + “Other”)
+4. write your question here... In the past 12 months, how often did you listen to “current chart” music? (Never → Very often)
+5. write your question here... Compared to 5–10 years ago, has your taste changed? (More mainstream / Less mainstream / Different genres / No major change)
+6. write your question here... Name 1–2 artists you listen to most lately (open text)
+7. write your question here... Name 1 song you loved when you were younger that you still like now (open text)
 8. write your question here... (optional)
 9. write your question here... (optional)
 10. write your question here... (optional)
@@ -71,7 +74,13 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: two-stage sampling
+2. Sample size: 1000
+5. Survey mode(s) :Electronic questionnaire
+6. Timeline :6 month
+11. Sources of error:Non-sampling error
+12. Limitations, known biases, etc: older people may not know how to answer online quiz
+
 ```
 
 ## Rubric
