@@ -62,8 +62,16 @@ Your 5-10 question survey:
 3. write your question here... Top 3 genres you listen to most (multi-select list + “Other”)
 4. write your question here... In the past 12 months, how often did you listen to “current chart” music? (Never → Very often)
 5. write your question here... Compared to 5–10 years ago, has your taste changed? (More mainstream / Less mainstream / Different genres / No major change)
-6. write your question here... Name 1–2 artists you listen to most lately (open text)
-7. write your question here... Name 1 song you loved when you were younger that you still like now (open text)
+6. write your question here... Which of the following artists or artist types do you listen to most recently?
+(Select up to two)
+Current Top-40 pop artists
+Indie or alternative artists
+Hip-hop / rap artists
+Classical composers
+Jazz musicians
+K-pop / J-pop / C-pop artists
+Other (please specify)
+7. write your question here... (optional)
 8. write your question here... (optional)
 9. write your question here... (optional)
 10. write your question here... (optional)
@@ -74,12 +82,19 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-1. Sample type: two-stage sampling
-2. Sample size: 1000
-5. Survey mode(s) :Electronic questionnaire
-6. Timeline :6 month
-11. Sources of error:Non-sampling error
-12. Limitations, known biases, etc: older people may not know how to answer online quiz
+1. Sample type: The 2018 GSS used a probability-based stratified sampling design. The sample was stratified by province and geographic region, and households were selected using a two-stage sampling approach.
+2. Sample size: Approximately 16,149 respondents completed the survey in Cycle 33.
+3. Target population: The target population consisted of all persons aged 15 years and over living in the ten Canadian provinces, excluding full-time residents of institutions.
+4. Sampling frame: The sampling frame was based on telephone-number groups linked to dwelling addresses, including both landline and cellular telephone numbers derived from Statistics Canada’s dwelling frame.
+5. Survey mode(s) : Data were collected using a mixed-mode design, including: Computer-Assisted Telephone Interviewing (CATI) and Electronic questionnaire (online)
+6. Timeline: Data collection took place from September 2018 to December 2018.
+7. Response rate: The overall response rate for Cycle 33 was approximately 41.9%.
+8. Weights: Survey weights were provided by Statistics Canada to ensure representativeness of the Canadian population. Bootstrap replicate weights were also supplied to allow for proper variance estimation.
+9. Data processing: Data processing included: Automated and manual consistency checks; Flow edits during data collection; Post-collection verification and coding
+10. Cleaning, imputation, etc: Missing or incomplete responses were handled using donor (nearest-neighbour) imputation methods. Income data were obtained through administrative tax-data linkage when available; remaining missing values were imputed.
+11. Sources of error: Potential sources of error include: Sampling error, Non-response error, Coverage error, Measurement and processing error
+12. Limitations, known biases, etc: Households without reliable phone or internet access may be underrepresented, Non-response bias may affect estimates, Introduction of online collection in 2018 may limit comparability with earlier cycles
+13. Link to documentation and any additional sources used: Statistics Canada. General Social Survey – Cycle 33: Giving, Volunteering and Participating, 2018. Statistics Canada Integrated Metadata Base (IMDB): Survey number 4430. Public Use Microdata File (PUMF) User Guide
 
 ```
 
